@@ -1,0 +1,6 @@
+{
+  "name": "EchoEnglish - Luyện Phát Âm & Giao Tiếp Toàn Diện",
+  "description": "Ứng dụng học tiếng Anh giao tiếp 6 ngày theo 9 quy tắc vàng phát âm, với Thư viện bài học và Hệ thống bài tập toàn diện 4 dạng tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
